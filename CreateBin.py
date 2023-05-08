@@ -59,5 +59,5 @@ def CreateImageSIchi ( overall_width, overall_height, bit_select, output_name):
     binHogeF.close()
 
 if __name__ == "__main__":
-    CreateImageSIchi ( 24, 24, "U8", "imgB")
+    CreateImageSIchi ( 60, 40, "U16", "imgB")
 
